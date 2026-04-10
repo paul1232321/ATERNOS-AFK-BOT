@@ -8,7 +8,7 @@
   "server": {
     "ip": "2punkt0.aternos.me",
     "port": 28410,
-    "version": "1.21.11"
+    "version": "false"
   },
   "position": {
     "enabled": true,
@@ -31,7 +31,7 @@
       "repeat-delay": 500,
       "messages": [
         "Achte auf das aktuelle Regelwerk! Änderungen Vorbehalten. Es kann immer etwas neues passieren. Informiere dich auf dem Discord oder per WhatsApp darüber!",
-        "Betrete die &6PvP Arena niemals ohne Führer außer dir hat jemand die Erlaubnis gegeben. Bei Erlaubnis: NUR OWNER",
+        "Betrete die PvP Arena niemals ohne Führer außer dir hat jemand die Erlaubnis gegeben. Bei Erlaubnis: NUR OWNER",
         "Cheate nicht! Wir haben ein gutes ANTI-CHEAT System! Versuche es erst garnicht!"
       ]
     },
