@@ -3,7 +3,8 @@
 // No KeepAliveError loop / optimized for Aternos
 // Replace your FULL index.js with this
 // ============================================================
-
+if (global.botRunning) process.exit(0);
+global.botRunning = true;
 const mineflayer = require('mineflayer');
 const { pathfinder, Movements, goals } = require('mineflayer-pathfinder');
 const { GoalBlock } = goals;
