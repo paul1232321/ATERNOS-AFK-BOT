@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Technoblade",
+    "username": "2.0AlwaysON",
     "password": "",
     "type": "offline"
   },
@@ -30,9 +30,9 @@
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Achte auf das aktuelle Regelwerk! Änderungen Vorbehalten. Es kann immer etwas neues passieren. Informiere dich auf dem Discord oder per WhatsApp darüber!",
+        "Betrete die &6PvP Arena niemals ohne Führer außer dir hat jemand die Erlaubnis gegeben. Bei Erlaubnis: NUR OWNER",
+        "Cheate nicht! Wir haben ein gutes ANTI-CHEAT System! Versuche es erst garnicht!"
       ]
     },
     "chat-log": true,
