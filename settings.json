@@ -8,7 +8,7 @@
   "server": {
     "ip": "2punkt0.aternos.me",
     "port": 28410,
-    "version": "false"
+    "version": "1.20.4"
   },
   "position": {
     "enabled": true,
